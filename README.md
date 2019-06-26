@@ -22,17 +22,3 @@ git clone https://github.com/fahernandez/search-engine
 cd search-engine
 docker run -ti -v $PWD/src:/src -v $PWD/../search-engine-data:/data fahernandez/search-engine:latest
 ```
-
-# Problems
-Adrian Quiros no coincide los archivos con el orden del archivo de urls, no se pudo
-Adrian Vargas no tiene el archivo de urls y los archivos tienen los nombres de urls, no se pudo
-Carlos son puras imagenes y no tiene el archivo de urls, no se pudo
-Daniel Herrera no se puede hacer unzip, no se pudo
-Deivert los archivos tienen nombres de la url y no tiene el archivo url, no se pudo
-Esteban Rodriguez no le puso extension a los archivos y se llama documents.csv, los pdf estan rotos, pero se pudo
-Michelle no tiene el archivo url, no se pudo
-Pablo no tiene el content type, hay archivos vacios, el 66, 2251, 2252 no existe, tiene archivos de codigo, pero se pudo
-
-
-Gerardo Sierra: Corpus Linguistico
-Weka
