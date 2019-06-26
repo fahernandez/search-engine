@@ -1,0 +1,7 @@
+version: '2'
+services:
+    search-engine:
+        build: .
+        image: fahernandez/search-engine:latest
+        volumes:
+            - ./src:/src
