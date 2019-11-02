@@ -2,7 +2,7 @@ click==7.0
 tinydb==3.13.0
 beautifulsoup4==4.5.3
 six==1.10.0
-nltk==3.4.1
+nltk==3.4.5
 textract==1.6.1
 pdftotext==1.0.0
 python-magic==0.4.15
